@@ -1,4 +1,4 @@
-# django-channels-basic-cha
+# django-channels-basic-chart
 
 ## Cloning and starting project
 1. - git clone https://github.com/victorsmart99998/django-channels-basic-chat.git
